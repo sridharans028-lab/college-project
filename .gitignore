@@ -1,0 +1,16 @@
+node_modules/
+client/node_modules/
+server/node_modules/
+client/dist/
+.venv/
+__pycache__/
+*.pyc
+.env
+server/.env
+ai-engine/.env
+server/uploads/*
+!server/uploads/.gitkeep
+.DS_Store
+.env.*
+!.env.example
+**/.venv/
